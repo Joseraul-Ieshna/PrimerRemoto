@@ -4,5 +4,6 @@ public class Primera {
 public static void main(String[] args) {
 	int uno;
 	int dos;
+	int tres;
 }
 }
