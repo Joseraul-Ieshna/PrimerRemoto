@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author rpitarch
- *
- */
-module PrimerRemoto {
-}
